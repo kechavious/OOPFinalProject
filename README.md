@@ -32,6 +32,7 @@ The system does not rely on any external APIs or real-time stock data. Instead w
 
   Handles user input and output
 **Team Members**
+
 Muyao (Jerry) Kong mk9014@nyu.edu
 
 Yifei (Zora) Zhao yz9704@nyu.edu
