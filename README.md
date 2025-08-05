@@ -19,15 +19,23 @@ The system does not rely on any external APIs or real-time stock data. Instead w
 ● Sort Stock Options: Display different stock codes in alphabetical order before placing a trade
 ### Classes that might be considered for Class Diagram
 ● Trade:
+
   Attributes: buyPrice, sellPrice, share, investmentTerm
+  
   Methods: calculateProfitOrLoss()
+  
 ● ProfitLossCalculator:
+
   Responsible for computing total profit/loss across multiple trades
+  
 ● Main (or App): 
+
   Handles user input and output
 **Team Members**
 Muyao (Jerry) Kong mk9014@nyu.edu
+
 Yifei (Zora) Zhao yz9704@nyu.edu
+
 Gordon Zou kz2538@nyu.edu
 
 
